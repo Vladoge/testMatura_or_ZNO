@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 6",
+    "taskDefinition"    : "Решите задачу",
+    "mainText"          : "Какое наименьшее количество грузовых автомобилей грузоподъёмностью в 4т необходимо для перевозки 500 ящиков груза по 90кг каждый ?",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 11",
+    "answers": [
+        "12"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами",
+    "arrURLImageForTask": []
+}

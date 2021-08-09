@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 9",
+    "taskDefinition"    : "Установите соответствие между событиями и участниками этих событий: к каждой позиции первого столбца подберите соответствующую позицию из второго столбца.",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 571",
+    "answers": [
+        "2134"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant6/IMGEGE.Historia.Variant6.Task9_Img1.png"]
+}

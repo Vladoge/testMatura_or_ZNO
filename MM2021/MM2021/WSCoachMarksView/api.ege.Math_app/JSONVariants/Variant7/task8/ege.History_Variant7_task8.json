@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 8",
+    "taskDefinition"    : "Заполните пропуски в данных предложениях, используя приведённый ниже список пропущенных элементов: для каждого предложения, обозначенного буквой и содержащего пропуск, выберите номер нужного элемента.",
+    "mainText"          : "А) на оккупированных территориях организовывались в отряды и совершали диверсии и нападения на соединения и стратегические объекты захватчиков. 22 июня 1941 года\n\nБ) выступил по радио с сообщением о начале войны.\n\nВ) __ в 1941 году передал руководству СССР ценные сведения об отсутствии намерений у Японии вступать в войну с Советским Союзом, что позволило советскому командованию перебросить часть восточных гарнизонов на запад. \n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 621",
+    "answers": [
+        "261"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant7/IMGEGE.Historia.Variant7.Task8_Img1.png"]
+}

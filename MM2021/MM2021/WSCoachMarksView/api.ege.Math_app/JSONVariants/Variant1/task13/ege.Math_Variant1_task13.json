@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 13",
+    "taskDefinition"    : "Решите геометрическую задачу",
+    "mainText"          : "В правильной четырёхугольной пирамиде сторона основания равна 5см. Найдите площадь боковой грани пирамиды, если площадь её полной поверхности равна 89см(квадратных).\n\n Ответ дайте в см2.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 91",
+    "answers": [
+        "16"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами",
+    "arrURLImageForTask": []
+}

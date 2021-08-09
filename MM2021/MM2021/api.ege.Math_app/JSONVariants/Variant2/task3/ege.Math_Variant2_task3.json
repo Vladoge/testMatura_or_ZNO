@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 3",
+    "taskDefinition"    : "Решите задачу.",
+    "mainText"          : "Предприниматель закупает товар за 500  рублей и продаёт его, увеличивая закупочную цену на 40%. . По какой цене предприниматель продаёт этот товар?",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1.5",
+    "answers": [
+        "700"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами",
+    "arrURLImageForTask": []
+}

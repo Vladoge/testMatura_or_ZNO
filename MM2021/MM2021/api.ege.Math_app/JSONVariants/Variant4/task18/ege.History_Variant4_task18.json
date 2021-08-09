@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Какие суждения о данной монете являются верными? Выберите два суждения из пяти предложенных.",
+    "mainText"          : "1. Санкт-Петербург, Дворцовая площадь, 1834 г.\n\n2. Санкт-Петербург, Сенатская площадь.\n\n3. На гранитном камне, служащим основанием памятника, текст: «Петру Первому Екатерина Вторая. 1782 г.».\n\n4. Автор проекта памятника К.А. Тон.\n\n5. Установка памятника в честь победы Александра I в Отечественной войне 1812 г.\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "15"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant4/IMGEGE.Historia.Variant4.Task18_Img1.png"]
+}

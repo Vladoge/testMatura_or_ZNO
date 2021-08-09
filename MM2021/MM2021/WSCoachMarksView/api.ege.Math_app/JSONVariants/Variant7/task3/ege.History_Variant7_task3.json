@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 3",
+    "taskDefinition"    : "Найдите и запишите порядковые номера терминов (названий), относящихся к другому историческому периоду.",
+    "mainText"          : "Ниже приведён список терминов. Все они, за исключением двух, относятся к событиям (явлениям) третьей четверти XIX в. Найдите и отметьте порядковые номера терминов, относящихся к другому историческому периоду.\n\n(Выберите 2 варианта из списка.)\n\n1.земство\n\n2.временнообязанные крестьяне\n\n3.крестьянские депутаты\n\n4.суд присяжных\n\n5.западничество\n\n6.народничество\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "35"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

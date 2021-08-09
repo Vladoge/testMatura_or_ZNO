@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 7",
+    "taskDefinition"    : "Какие три из перечисленных положений относятся к политике коллективизации в СССР? Запишите цифры, под которыми они указаны.",
+    "mainText"          : "1. утверждение частной крестьянской собственности на землю\n\n2. ликвидация крепких единоличных крестьянских хозяйств\n\n3. жёсткий партийно-государственный контроль в сельскохозяйственной сфере\n\n4. развитие кредитно-банковской системы\n\n5. высылка раскулаченных крестьян и членов их семей в отдалённые районы страны\n\n6. создание совнархозов\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 13",
+    "answers": [
+        "235"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

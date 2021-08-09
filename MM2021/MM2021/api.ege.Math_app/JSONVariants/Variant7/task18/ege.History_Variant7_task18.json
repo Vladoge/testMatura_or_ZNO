@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Рассмотрите изображение и выполните задание.\n\nКакие суждения о данной монете являются верными? Выберите два суждения из пяти предложенных.",
+    "mainText"          : "1.Данный памятник был воздвигнут дочерью личности, увековеченной в нем.\n\n2.Данный памятник был создан итальянским архитектором.\n\n3.Данный памятник был воздвигнут в городе, основанном личностью, которой посвящён памятник.\n\n4.Возведение данного памятника было завершено уже после смерти правителя, начавшего его возведение.\n\n5.Данный памятник выполнен из бронзы.\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "35"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant7/IMGEGE.Historia.Variant7.Task18_Img1.png"]
+}

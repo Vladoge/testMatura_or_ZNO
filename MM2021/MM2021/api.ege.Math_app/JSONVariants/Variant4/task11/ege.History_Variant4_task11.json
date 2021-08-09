@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 11",
+    "taskDefinition"    : "Заполните пустые ячейки таблицы, используя приведённый ниже список пропущенных элементов: для каждого пропуска, обозначенного буквами, выберите номер нужного элемента.",
+    "mainText"          : "1. 1799-1800 гг.\n\n2. 1853-1856 гг.\n\n3. упразднение сейма (парламента) и национально-территориальных вооружённых сил\n\n4. ратификация русско-английской конвенции о границах\n\n5. вхождение в состав России Царства Польского\n\n6. 1848-1849 гг.\n\n7. Венский конгресс\n\n8. Итальянский и Швейцарский походы А.В. Суворова\n\n9. оформление границ Русской Америки\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 3,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 862453",
+    "answers": [
+        "816349"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant4/IMGEGE.Historia.Variant4.Task11_Img1.png"]
+}

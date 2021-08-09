@@ -1,0 +1,9 @@
+{
+    "titleForWeInVK"	   : "Мы в вконтакте",
+    "titleForMyStatistics" : "Моя статистика",
+    "titleForTableBalls"   : "Таблица баллов ЕГЭ",
+    "linkOnWeInVK"		   : "https://vk.com/id1",
+    "linkOnTableBalls"	   : ["https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/PicturesForBallSystem/IMGEGE.Math.TableBalls_Img1.png",
+    						  "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/PicturesForBallSystem/IMGEGE.Math.TableBalls_Img2.png",
+    						  "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/PicturesForBallSystem/IMGEGE.Math.TableBalls_Img3.png"]
+}

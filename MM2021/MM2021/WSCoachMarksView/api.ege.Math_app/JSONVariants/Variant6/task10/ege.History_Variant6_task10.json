@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 10",
+    "taskDefinition"    : "Прочтите отрывок из документа и укажите фамилию исторического персонажа, которому принадлежат эти слова:",
+    "mainText"          : "«Я уже стар и устал. Пусть теперь справляются сами. Главное я сделал. Отношения между нами, стиль руководства поменялись в корне. Разве кому-нибудь могло пригрезиться, что мы можем сказать Сталину, что он нас не устраивает, и предложить ему уйти в отставку? От нас бы мокрого места не осталось. Теперь всё иначе. Исчез страх, и разговор идёт на равных. В этом моя заслуга. А бороться я не буду...».",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: Киркоров",
+    "answers": [
+        "Хрущев"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": []
+}

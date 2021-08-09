@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 16",
+    "taskDefinition"    : "Какие суждения, относящиеся к событиям, обозначенным на схеме, являются верными? Выберите три суждения из шести предложенных. Цифры ука­жи­те в по­ряд­ке возрастания.",
+    "mainText"          : "1) Город, обозначенный на схеме цифрой «3», в настоящее время входит в состав России.\n\n2) Город, обозначенный на схеме цифрой «5», был освобождён от фашистов осенью.\n\n3) В ходе боевых действий, обозначенных на схеме стрелками, Красная армия полностью освободила Чехословакию.\n\n4) На схеме обозначены действия Красной армии в ходе операции «Багратион».\n\n5) На схеме обозначены действия Красной армии в ходе Восточно-Прусской операции.\n\n6) Город, обозначенный на схеме цифрой «1», был освобождён от фашистов в октябре.\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 841",
+    "answers": [
+        "124"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant9/IMGEGE.Historia.Variant9.Task13_Img1.png"]
+}

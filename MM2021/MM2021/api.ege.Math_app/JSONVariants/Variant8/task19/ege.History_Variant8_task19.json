@@ -1,0 +1,24 @@
+{
+    "taskName"          : "Задание 19",
+    "taskDefinition"    : "Какие из представленных сооружений были возведены в правление того же правителя, что и сооружение из задания 18?",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "14"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant8/IMGEGE.Historia.Variant8.Task18_Img1.png",
+                            "https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant8/IMGEGE.Historia.Variant8.Task19_Img1.png",
+                            "https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant8/IMGEGE.Historia.Variant8.Task19_Img2.png",
+                            "https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant8/IMGEGE.Historia.Variant8.Task19_Img3.png",
+                            "https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant8/IMGEGE.Historia.Variant8.Task19_Img4.png"]
+}

@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 7",
+    "taskDefinition"    : "Что из перечисленного относится к периоду первой и второй пятилеток (1928-1937) ?",
+    "mainText"          : "(Выберите 3 варианта из списка)\n\n1.трудармия\n\n2.стахановцы\n\n3.трудодни\n\n4.комбеды\n\n5.продразвёрстка\n\n6.машинно-тракторные станции\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 13",
+    "answers": [
+        "236"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

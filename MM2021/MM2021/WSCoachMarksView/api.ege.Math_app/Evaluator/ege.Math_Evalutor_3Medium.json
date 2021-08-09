@@ -1,0 +1,74 @@
+{
+ "evaluatorModels" : [
+
+       {
+            "phrase": "Это норма!",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.1.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.1.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.1.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.1.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.1.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.1.jpg"
+            }
+   },
+
+    {
+            "phrase": "Я знаю, ты можешь лучше!",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.2.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.2.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.2.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.2.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.2.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.2.jpg"
+            }
+   },
+
+    {
+            "phrase": "Так себе !",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.3.jpeg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.3.jpeg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.3.jpeg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.3.jpeg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.3.jpeg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.3.jpeg"
+            }
+   },
+
+    {
+            "phrase": "Бывало и лучше!",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.4.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.4.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.4.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.4.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.4.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.4.jpg"
+            }
+   },
+
+    {
+            "phrase": "Дружише, соберись!",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.5.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.5.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.5.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.5.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.5.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Evaluator/Medium/ege.Math.Evaluator.Medium.5.jpg"
+            }
+   }
+  ] 
+}

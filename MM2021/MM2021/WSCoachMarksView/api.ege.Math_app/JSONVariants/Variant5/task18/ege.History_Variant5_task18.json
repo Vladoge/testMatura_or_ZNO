@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Какие суждения о данной монете являются верными? Выберите два суждения из пяти предложенных.",
+    "mainText"          : "1.Собор построен в честь победы России в Северной войне.\n\n2.Собор имеет нетипичную для православных храмов форму в связи с настоянием тогдашнего правителя России.\n\n3.Собор является памятником классицизма.\n\n4.Собор являлся царской усыпальницей.\n\n5.Собор был уничтожен после прихода к власти большевиков.\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "24"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant5/IMGEGE.Historia.Variant5.Task18_Img1.png"]
+}

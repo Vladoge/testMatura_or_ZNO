@@ -1,0 +1,40 @@
+{
+    "variantName": "Test z fizyki, matura 2021 (próbna)",
+    "variantDescription": "Fizyka",
+    "executionTimeInSeconds": 12600,
+    "maxPrimaryBall" : 47,
+    "countTask": 19,
+    "variantImages": [
+        {
+            "variantSmallImg": "",
+            "variantMiddleImg": "",
+            "variantBigImg": ""
+        },
+        {
+            "variantSmallImg": "",
+            "variantMiddleImg": "",
+            "variantBigImg": ""
+        }
+    ],
+    "tasks": [
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task1/ege.History_Variant10_task1.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task2/ege.History_Variant10_task2.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task3/ege.History_Variant10_task3.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task4/ege.History_Variant10_task4.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task5/ege.History_Variant10_task5.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task6/ege.History_Variant10_task6.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task7/ege.History_Variant10_task7.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task8/ege.History_Variant10_task8.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task9/ege.History_Variant10_task9.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task10/ege.History_Variant10_task10.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task11/ege.History_Variant10_task11.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task12/ege.History_Variant10_task12.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task13/ege.History_Variant10_task13.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task14/ege.History_Variant10_task14.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task15/ege.History_Variant10_task15.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task16/ege.History_Variant10_task16.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task17/ege.History_Variant10_task17.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task18/ege.History_Variant10_task18.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant10/task19/ege.History_Variant10_task19.json"
+    ]
+}

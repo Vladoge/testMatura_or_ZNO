@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 11",
+    "taskDefinition"    : "Заполните пустые ячейки таблицы, используя приведённый ниже список пропущенных элементов: для каждого пропуска, обозначенного буквами, выберите номер нужного элемента.",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 3,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 862453",
+    "answers": [
+        "256397"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant5/IMGEGE.Historia.Variant5.Task11_Img1.png"]
+}

@@ -1,0 +1,69 @@
+{
+    "evaluatorModels": [
+         {
+            "phrase": "Безысходность...",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.1.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.1.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.1.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.1.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.1.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.1.jpg"
+            }
+   },
+    {
+            "phrase": "Исправляйся, тебе лучше не злить ее:)",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.2.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.2.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.2.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.2.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.2.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.2.jpg"
+            }
+   },
+    {
+            "phrase": "Все проигранно!",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.3.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.3.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.3.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.3.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.3.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.3.jpg"
+            }
+   },
+    {
+            "phrase": "Омерзительный бал. Старина,соберись !",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.4.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.4.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.4.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.4.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.4.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.4.jpg"
+            }
+   },
+    {
+            "phrase": "Нужно больше треннировок!",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.5.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.5.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.5.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.5.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.5.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/VeryBad/ege.Russian.StatisticsEvaluator.VeryBad.5.jpg"
+            }
+   }
+    ]
+}

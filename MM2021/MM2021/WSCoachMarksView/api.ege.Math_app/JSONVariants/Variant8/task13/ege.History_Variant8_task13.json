@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 13",
+    "taskDefinition"    : "Рассмотрите схему и выполните задание.",
+    "mainText"          : "Напишите год, в котором закончилось сражение, изображённое на схеме.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: Австрия",
+    "answers": [
+        "1943"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant8/IMGEGE.Historia.Variant8.Task13_Img1.png"]
+}

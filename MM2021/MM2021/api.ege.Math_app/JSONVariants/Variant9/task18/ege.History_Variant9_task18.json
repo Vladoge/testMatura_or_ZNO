@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Какие суждения о данной монете являются верными? Выберите два суждения из пяти предложенных.",
+    "mainText"          : "1) Событие, которому посвящена данная монета, произошло менее чем за год до отмены крепостного права в России.\n\n2) На монете упоминается государственный орган, учреждённый Петром I.\n\n3) Изображённый на монете российский император получил прозвище Тишайший.\n\n4) Данная монета выпущена в год, когда Президентом России был Д. А. Медведев.\n\n5) Высокие государственные посты в период правления императора, изображённого на монете, занимали А. Х. Бенкендорф и С. С. Уваров.\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "12"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant9/IMGEGE.Historia.Variant9.Task18_Img1.png"]
+}

@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 12",
+    "taskDefinition"    : "Решите задачу",
+    "mainText"          : "Маша хочет сделать заказ в одном из трёх интернет-магазинов. Ей нужно заказать учебники по алгебре, геометрии и русскому языку. Цены на указанные учебники в разных магазинах представлены в таблице. Найдите цену (в руб.) наиболее выгодного заказа.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 11",
+    "answers": [
+        "780"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Variant1/IMGEGE.Math.Variant1.Task12_Img1.png"]
+}

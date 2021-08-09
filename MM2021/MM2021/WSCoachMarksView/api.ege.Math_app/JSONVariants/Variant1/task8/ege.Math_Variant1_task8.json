@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 8",
+    "taskDefinition"    : "Постройте математическую модель",
+    "mainText"          : "Поле для гольфа имеет форму прямоугольника с размерами 60м на 80м. На поле отведено место для отдыха размером 5м на 40м. Определите, сколько площади на поле осталось для игры. Ответ дайте в м2.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 11000",
+    "answers": [
+        "4600"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Variant1/IMGEGE.Math.Variant1.Task8_Img1.png"]
+}

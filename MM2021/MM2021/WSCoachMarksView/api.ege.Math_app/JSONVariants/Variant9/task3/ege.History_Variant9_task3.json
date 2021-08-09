@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 3",
+    "taskDefinition"    : "Найдите и запишите порядковые номера терминов (названий), относящихся к другому историческому периоду.",
+    "mainText"          : "Ниже приведён список терминов (названий). Все они, за исключением двух, относятся к событиям (явлениям) истории России XVIII в.\n\n1) дворцовый переворот;\n\n2) славянофилы;\n\n3) посессионные крестьяне;\n\n4) фаворитизм;\n\n5) выкупные платежи;\n\n6) коллегии.\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "25"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 6",
+    "taskDefinition"    : "Решите задачу",
+    "mainText"          : "В легковой машине службы такси пять посадочных мест, включая водительское. Сколько таких такси необходимо для перевозки 15 пассажиров ?",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 11",
+    "answers": [
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами",
+    "arrURLImageForTask": []
+}

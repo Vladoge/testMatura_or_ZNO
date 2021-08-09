@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Zadanie 1. (1 pkt)",
+    "taskDefinition"    : "Liczba (√6 − √2)2 − 2√3 jest równa",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 49.1",
+    "answers": [
+        "A"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Wprowadź litere odpowiedzi",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/img/IMGEGE.Math.Variant1.Task1_Img1.png"]
+}
+
+

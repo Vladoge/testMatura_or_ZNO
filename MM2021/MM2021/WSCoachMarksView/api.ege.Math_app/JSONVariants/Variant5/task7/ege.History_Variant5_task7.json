@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 7",
+    "taskDefinition"    : "Что из перечисленного относится к периоду образования государства Русь (середина IX — конец X вв.)?\n\n(Выберите 3 варианта из списка.)",
+    "mainText"          : "1.установление системы погостов\n\n2.создание Русской Правды\n\n3.введение церковной десятины\n\n4.походы против половцев\n\n5.война с Хазарией\n\n6.строительство Золотых ворот в Киеве\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 13",
+    "answers": [
+        "135"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

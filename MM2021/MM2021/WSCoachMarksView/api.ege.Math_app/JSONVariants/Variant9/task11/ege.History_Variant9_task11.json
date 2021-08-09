@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 11",
+    "taskDefinition"    : "Заполните пустые ячейки таблицы, используя приведённый ниже список пропущенных элементов: для каждого пропуска, обозначенного буквами, выберите номер нужного элемента.",
+    "mainText"          : "Пропущенные элементы:\n\n1) начало правления в Киеве князя Владимира Святославича\n\n2) начало Крестовых походов\n\n3) XVI в.\n\n4) образование Священной Римской империи\n\n5) XIV в.\n\n6) поход хана Тохтамыша на Москву\n\n7) «Славная революция» в Англии\n\n8) XV в.\n\n9) присоединение к Московскому государству Твери\n\n\nЗапишите в ответ цифры, расположив их в порядке, соответствующем буквам:\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 3,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 862453",
+    "answers": [
+        "897145"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant9/IMGEGE.Historia.Variant9.Task11_Img1.png"]
+}

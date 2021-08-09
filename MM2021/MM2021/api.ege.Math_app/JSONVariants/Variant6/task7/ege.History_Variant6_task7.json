@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 7",
+    "taskDefinition"    : "Какие из перечисленных ниже документов были изданы в XVII в.? Выберите три документа и запишите цифры, под которыми они указаны.",
+    "mainText"          : "1. указ о престолонаследии\n\n2. Новоторговый устав\n\n3. Соборное уложение\n\n4. Духовный регламент\n\n5. приговор Земского собора об отмене местничества\n\n6. указ о единонаследии\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 13",
+    "answers": [
+        "235"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

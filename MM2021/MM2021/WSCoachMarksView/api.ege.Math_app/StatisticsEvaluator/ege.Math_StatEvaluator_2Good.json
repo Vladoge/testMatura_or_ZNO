@@ -1,0 +1,82 @@
+{
+    "evaluatorModels": [
+         {
+            "phrase": "Спэнч Боб в тебе уверен!",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.1.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.1.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.1.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.1.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.1.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.1.jpg"
+            }
+   },
+    {
+            "phrase": "Сова в восторге ! Хороший результат ^-^",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.2.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.2.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.2.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.2.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.2.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.2.jpg"
+            }
+   },
+    {
+            "phrase": "Считай, что ты уже все сдал!",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.3.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.3.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.3.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.3.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.3.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.3.jpg"
+            }
+   },
+    {
+            "phrase": "Крестный отец не сомневается в тебе!",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.4.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.4.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.4.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.4.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.4.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.4.jpg"
+            }
+   },
+    {
+            "phrase": "Кот восхищен тобой !",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.5.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.5.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.5.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.5.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.5.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.5.jpg"
+            }
+   },
+    {
+            "phrase": "Все приделах приличия! Ты молодец!",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.6.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.6.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.6.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.6.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.6.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Good/ege.Russian.StatisticsEvaluator.Good.6.jpg"
+            }
+   }
+    ]
+}

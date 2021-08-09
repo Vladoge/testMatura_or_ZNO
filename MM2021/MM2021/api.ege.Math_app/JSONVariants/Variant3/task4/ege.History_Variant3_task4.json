@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 4",
+    "taskDefinition"    : "Запишите термин, о котором идёт речь.",
+    "mainText"          : "Запишите термин, о котором идёт речь: государственные органы территориального управления народным хозяйством СССР с 1917 по 1932 год и период проведения экономической реформы в 1957—1965 годы.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: перестройка",
+    "answers": [
+        "совнархозы"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": []
+}

@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 3",
+    "taskDefinition"    : "Найдите и запишите порядковые номера терминов (названий), относящихся к другому историческому периоду.\n\n(Выберите 2 варианта из списка.)",
+    "mainText"          : "Ниже приведён список терминов. Все они, за исключением двух, относятся к событиям (явлениям) XVII в.\n1.ярмарка\n\n2.опричнина\n\n3.старообрядцы\n\n4.мануфактуры\n\n5.бироновщина\n\n6.стрельцы\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "25"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

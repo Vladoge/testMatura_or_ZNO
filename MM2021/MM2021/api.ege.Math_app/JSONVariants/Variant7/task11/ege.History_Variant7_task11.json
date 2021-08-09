@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 11",
+    "taskDefinition"    : "Заполните пустые ячейки таблицы, используя приведённый ниже список пропущенных элементов: для каждого пропуска, обозначенного буквами, выберите номер нужного элемента.",
+    "mainText"          : "Пропущенные элементы:\n\n1) XVIII в.\n\n2) Гуситские войны\n\n3) XIX в.\n\n4) казнь английского короля Карла I\n\n5) заключение Вечного мира с Речью Посполитой\n\n6) первая оборона Севастополя\n\n7) восстание Кондратия Булавина\n\n8) битва на Косовом поле\n\n9) оборона Порт-Артура\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 3,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 862453",
+    "answers": [
+        "836541"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant7/IMGEGE.Historia.Variant7.Task11_Img1.png"]
+}

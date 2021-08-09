@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Какие суждения о данной монете являются верными? Выберите два суждения из пяти предложенных.",
+    "mainText"          : "(Выберите 2 варианта из списка.)\n\n1.Сооружение возведено в стиле петровского барокко.\n\n2.Сооружение пострадало от пожара во время Отечественной войны 1812 года.\n\n3.В сооружении находится первый в России музей.\n\n4.Сооружение служило местом расположения Петроградского совета рабочих и солдатских депутатов.\n\n5.Сооружение полностью деревянное в связи с существовавшим в период его возведения запрета на строительство из камня.\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "13"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant10/IMGEGE.Historia.Variant10.Task18_Img1.png"]
+}

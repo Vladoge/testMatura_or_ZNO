@@ -1,0 +1,40 @@
+{
+    "variantName": "Test z matematyki,2021, maj - poziom podstawowy",
+    "variantDescription": "Matematyka, matura 2021",
+    "executionTimeInSeconds": 12600,
+    "maxPrimaryBall" : 47,
+    "countTask": 19,
+    "variantImages": [
+        {
+            "variantSmallImg": "",
+            "variantMiddleImg": "",
+            "variantBigImg": ""
+        },
+        {
+            "variantSmallImg": "",
+            "variantMiddleImg": "",
+            "variantBigImg": ""
+        }
+    ],
+    "tasks": [
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task1/ege.History_Variant4_task1.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task2/ege.History_Variant4_task2.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task3/ege.History_Variant4_task3.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task4/ege.History_Variant4_task4.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task5/ege.History_Variant4_task5.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task6/ege.History_Variant4_task6.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task7/ege.History_Variant4_task7.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task8/ege.History_Variant4_task8.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task9/ege.History_Variant4_task9.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task10/ege.History_Variant4_task10.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task11/ege.History_Variant4_task11.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task12/ege.History_Variant4_task12.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task13/ege.History_Variant4_task13.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task14/ege.History_Variant4_task14.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task15/ege.History_Variant4_task15.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task16/ege.History_Variant4_task16.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task17/ege.History_Variant4_task17.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task18/ege.History_Variant4_task18.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant4/task19/ege.History_Variant4_task19.json"
+    ]
+}

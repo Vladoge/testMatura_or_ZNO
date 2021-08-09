@@ -1,0 +1,11 @@
+${PODS_ROOT}/Target Support Files/Pods-MM2021/Pods-MM2021-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/ChameleonFramework/ChameleonFramework.framework
+${BUILT_PRODUCTS_DIR}/DCAnimationKit/DCAnimationKit.framework
+${BUILT_PRODUCTS_DIR}/FLAnimatedImage/FLAnimatedImage.framework
+${BUILT_PRODUCTS_DIR}/FastEasyMapping/FastEasyMapping.framework
+${BUILT_PRODUCTS_DIR}/HPTextViewTapGestureRecognizer/HPTextViewTapGestureRecognizer.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/MPCoachMarks/MPCoachMarks.framework
+${BUILT_PRODUCTS_DIR}/NYTPhotoViewer/NYTPhotoViewer.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework

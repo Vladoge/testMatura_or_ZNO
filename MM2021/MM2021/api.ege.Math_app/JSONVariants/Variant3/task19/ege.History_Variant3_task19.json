@@ -1,0 +1,24 @@
+{
+    "taskName"          : "Задание 19",
+    "taskDefinition"    : "Рассмотрите изображение и выполните задание.",
+    "mainText"          : "Какие из представленных плакатов относятся к событиям той же войны, что и плакат из задания 18?\n\n(Выберите 2 варианта из списка.)",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "24"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant3/IMGEGE.Historia.Variant3.Task18_Img1.png",
+                      "https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant3/IMGEGE.Historia.Variant3.Task19_Img1.png",
+                      "https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant3/IMGEGE.Historia.Variant3.Task19_Img2.png",
+                      "https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant3/IMGEGE.Historia.Variant3.Task19_Img3.png",
+                      "https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant3/IMGEGE.Historia.Variant3.Task19_Img4.png"]
+}

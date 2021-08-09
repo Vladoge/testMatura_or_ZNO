@@ -1,0 +1,40 @@
+{
+    "variantName": "Test z biologii, matura 2021 (próbna)",
+    "variantDescription": "Biologiia 2021",
+    "executionTimeInSeconds": 12600,
+    "maxPrimaryBall" : 47,
+    "countTask": 19,
+    "variantImages": [
+        {
+            "variantSmallImg": "",
+            "variantMiddleImg": "",
+            "variantBigImg": ""
+        },
+        {
+            "variantSmallImg": "",
+            "variantMiddleImg": "",
+            "variantBigImg": ""
+        }
+    ],
+    "tasks": [
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task1/ege.History_Variant2_task1.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task2/ege.History_Variant2_task2.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task3/ege.History_Variant2_task3.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task4/ege.History_Variant2_task4.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task5/ege.History_Variant2_task5.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task6/ege.History_Variant2_task6.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task7/ege.History_Variant2_task7.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task8/ege.History_Variant2_task8.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task9/ege.History_Variant2_task9.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task10/ege.History_Variant2_task10.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task11/ege.History_Variant2_task11.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task12/ege.History_Variant2_task12.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task13/ege.History_Variant2_task13.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task14/ege.History_Variant2_task14.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task15/ege.History_Variant2_task15.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task16/ege.History_Variant2_task16.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task17/ege.History_Variant2_task17.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task18/ege.History_Variant2_task18.json",
+        "https://gitlab.com/thisismymail03/api.ege.History_app/raw/master/JSONVariants/Variant2/task19/ege.History_Variant2_task19.json"
+    ]
+}

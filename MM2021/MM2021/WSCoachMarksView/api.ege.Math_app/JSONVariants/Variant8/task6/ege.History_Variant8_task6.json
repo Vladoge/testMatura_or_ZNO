@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 6",
+    "taskDefinition"    : "Установите соответствие между фрагментами исторических источников и их краткими характеристиками: к каждому фрагменту, обозначенному буквой, подберите по две соответствующие характеристики, обозначенные цифрами.",
+    "mainText"          : "Характеристика:\n\n1) Документ был издан в правление Петра I.\n\n 2) В документе идет речь о посессионных крестьянах.\n\n 3) Документ был издан в правление Александра I.\n\n 4) В документе идет речь о государственных крестьянах.\n\n 5) Документ был издан в правление Николая I.\n\n 6) Документ направлен на улучшение положения крепостных крестьян.\n\n\n Запишите в таблицу выбранные цифры под соответствующими буквами без пробелов и запятых в порядке возрастания.\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "1256"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant8/IMGEGE.Historia.Variant8.Task6_Img1.png"]
+}

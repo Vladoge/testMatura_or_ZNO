@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 3",
+    "taskDefinition"    : "Найдите и запишите порядковые номера терминов (названий), относящихся к другому историческому периоду.",
+    "mainText"          : "Ниже приведён список аббревиатур. Все они, за исключением одной, существовали в СССР в 1953-1964 гг.\n\n1. ЦК КПСС;\n\n2. ВСНХ;\n\n 3. СНК;\n\n4. ВЛКСМ;\n\n5. МПС;\n\n6. МВД",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "3"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

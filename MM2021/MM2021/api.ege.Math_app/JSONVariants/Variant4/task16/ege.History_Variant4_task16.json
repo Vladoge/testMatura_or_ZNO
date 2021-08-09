@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 16",
+    "taskDefinition"    : "Какие суждения, относящиеся к событиям, обозначенным на схеме, являются верными? Выберите три суждения из шести предложенных. Цифры ука­жи­те в по­ряд­ке возрастания.",
+    "mainText"          : "1. Поход, обозначенный на схеме стрелками, длился более пяти лет.\n\n2. Союзниками полководца, совершившего поход, отмеченный на схеме стрелками, выступали печенеги.\n\n3. В результате похода, обозначенного на схеме стрелками, был разгромлен Хазарский каганат.\n\n4. Столицей князя, совершившего поход, обозначенный на схеме стрелками, был Великий Новгород.\n\n5. В результате похода, обозначенного на карте стрелками, крепость, отмеченная цифрой «1», стала частью Древнерусского государства.\n\n6. Полководец, совершивший походы, обозначенные на схеме стрелками, был убит печенегами в 972 г.\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 841",
+    "answers": [
+        "356"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant4/IMGEGE.Historia.Variant4.Task13_Img1.png"]
+}

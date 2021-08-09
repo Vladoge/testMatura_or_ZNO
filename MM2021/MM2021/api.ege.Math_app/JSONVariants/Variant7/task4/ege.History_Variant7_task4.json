@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 4",
+    "taskDefinition"    : "Запишите термин, о котором идёт речь.",
+    "mainText"          : "Мера наказания за убийство в Древней Руси, требовавшая взыскания с совершившего преступление денежного возмещения.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: перестройка",
+    "answers": [
+        "вира"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": []
+}

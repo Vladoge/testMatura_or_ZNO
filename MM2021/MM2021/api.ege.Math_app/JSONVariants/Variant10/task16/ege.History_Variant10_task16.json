@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 16",
+    "taskDefinition"    : "Какие суждения, относящиеся к событиям, обозначенным на схеме, являются верными? Выберите три суждения из шести предложенных. Цифры ука­жи­те в по­ряд­ке возрастания.",
+    "mainText"          : "Рассмотрите карту и выполните задание.\n\n (Выберите 3 варианта из списка.)\n\n1.Сражение, изображённое на схеме, завершилось в 1856 году.\n\n2.Город, изображённый на схеме, к концу войны был сдан противнику.\n\n3.На втором этапе войны противниками России стали Великобритания, Франция и Пруссия.\n\n4.Австрия заняла позицию «благожелательного нейтралитета» по отношению к России, что позволило последней перебросить дополнительные силы с границы на основной театр боевых действий.\n\n5.По условиям мирного договора Россия, в частности, лишалась права иметь военный флот на Чёрном море.\n\n6.Все захваченные у России во время этой войны территории были ей возвращены\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 841",
+    "answers": [
+        "256"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant10/IMGEGE.Historia.Variant10.Task13_Img1.png"]
+}

@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 8",
+    "taskDefinition"    : "Заполните пропуски в данных предложениях, используя приведённый ниже список пропущенных элементов: для каждого предложения, обозначенного буквой и содержащего пропуск, выберите номер нужного элемента.",
+    "mainText"          : "А) Согласно к концу 1941 года немецко-фашистские части должны были выйти на линию Архангельск—Волга—Астрахань.\n\n Б) сотрудничали с немецким командованием на оккупированных территориях и участвовали в создании вспомогательных военизированных подразделений.\n\n В) __ был одним из организаторов партизанского движения на территории оккупированной Украинской ССР.\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 621",
+    "answers": [
+        "653"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant5/IMGEGE.Historia.Variant5.Task8_Img1.png"]
+}

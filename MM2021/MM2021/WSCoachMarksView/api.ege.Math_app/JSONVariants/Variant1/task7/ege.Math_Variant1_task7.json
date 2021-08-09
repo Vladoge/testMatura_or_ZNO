@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 7",
+    "taskDefinition"    : "Решите уравнения",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1389",
+    "answers": [
+        "2"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Variant1/IMGEGE.Math.Variant1.Task7_Img1.png"]
+}
+

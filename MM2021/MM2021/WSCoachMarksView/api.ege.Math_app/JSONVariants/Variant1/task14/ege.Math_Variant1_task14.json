@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 14",
+    "taskDefinition"    : "Установите соотвествие ",
+    "mainText"          : "На графике представлена зависимость температуры t  вещества от полученного количества теплоты Q. Изначально вещество находилось в твёрдом состоянии. На горизонтальной оси отмечено количество теплоты в Джоулях, на вертикальной оси — температура вещества в градусах Цельсия. Пользуясь графиком, поставьте в соответствие каждому промежутку количества теплоты (обозначено буквами) соответствующую ему характеристику температуры (обозначено цифрами). ",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 321",
+    "answers": [
+            "4312"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами в состоянии с алфавитном порядке",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Variant1/IMGEGE.Math.Variant1.Task14_Img1.png",
+                          "https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Variant1/IMGEGE.Math.Variant1.Task14_Img2.png"]
+}

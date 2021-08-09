@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 16",
+    "taskDefinition"    : "Рассмотрите схему и выполните задание.\n\nКакие суждения, относящиеся к событиям, обозначенным на схеме, являются верными? Выберите три суждения из шести предложенных. Цифры ука­жи­те в по­ряд­ке возрастания.",
+    "mainText"          : "1.На стороне главного противника СССР в данном сражении принимали участие войска Румынии, Венгрии, Италии.\n\n2.На стороне СССР в данном сражении принимали участие войска Финляндии.\n\n3.Сражение завершилось окружением и сдачей группировки противника.\n\n4.Население города было полностью эвакуировано перед началом сражения.\n\n5.Приказ № 227 был издан в период сражения, изображённого на схеме, и в связи с происходившими в его ходе событиями.\n\n6.Г. К. Жуков лично командовал советскими войсками на завершающем этапе сражения\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 841",
+    "answers": [
+        "135"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant8/IMGEGE.Historia.Variant8.Task13_Img1.png"]
+}

@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 7",
+    "taskDefinition"    : "Какие из перечисленных событий произошли в период руководства СССР Н. С. Хрущёва? Выберите три события и запишите в таблицу цифры, под которыми они указаны.\n\nЦифры ука­жи­те в по­ряд­ке возрастания.",
+    "mainText"          : "1) ввод советских войск в Афганистан\n\n2) начало кампании против космополитизма в СССР\n\n3) расстрел демонстрации рабочих в Новочеркасске\n\n4) ликвидация машинно-тракторных станций\n\n5) либерализация цен\n\n6) Карибский кризис\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 13",
+    "answers": [
+        "346"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

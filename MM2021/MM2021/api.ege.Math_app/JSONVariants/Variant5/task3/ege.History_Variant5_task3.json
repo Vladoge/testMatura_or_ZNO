@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 3",
+    "taskDefinition"    : "Найдите и запишите порядковые номера терминов (названий), относящихся к другому историческому периоду.",
+    "mainText"          : "Ниже приведён список терминов. Все они, за исключением двух, относятся к событиям (явлениям) периода Перестройки (1985—1991).\n\n(Выберите 2 варианта из списка.)\n\n1.новое политическое мышление\n\n2.конверсия оборонных предприятий\n\n3.ваучер\n\n4.гласность\n\n5.приватизация\n\n6.межрегиональная трудовая группа\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "35"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

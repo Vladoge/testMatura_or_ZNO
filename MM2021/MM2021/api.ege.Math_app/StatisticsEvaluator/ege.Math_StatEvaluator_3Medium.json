@@ -1,0 +1,69 @@
+{
+    "evaluatorModels": [
+         {
+            "phrase": "Ты сдашь, но нужно постараться и набрать больше баллов",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.1.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.1.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.1.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.1.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.1.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.1.jpg"
+            }
+   },
+    {
+            "phrase": "Общий балл достаточно слабый, но ты сдашь :(",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.2.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.2.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.2.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.2.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.2.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.2.jpg"
+            }
+   },
+    {
+            "phrase": "Для тебя это не предел. Я верю, что ты можешь лучше !",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.3.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.3.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.3.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.3.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.3.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.3.jpg"
+            }
+   },
+    {
+            "phrase": "ЕГЭ грядет! Ты можешь лучше !",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.4.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.4.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.4.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.4.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.4.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.4.jpg"
+            }
+   },
+    {
+            "phrase": "Только удача тебя спасет !",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.5.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.5.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.5.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.5.jpg",
+                "middleImg" : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.5.jpg",
+                "bigImg"    : "https://gitlab.com/thisismymail03/api.ege.Russian.pictures/raw/master/StatisticsEvaluator/Medium/ege.Russian.StatisticsEvaluator.Medium.5.jpg"
+            }
+   }
+    ]
+}

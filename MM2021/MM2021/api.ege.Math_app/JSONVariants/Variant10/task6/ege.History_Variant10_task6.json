@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 6",
+    "taskDefinition"    : "Установите соответствие между фрагментами исторических источников и их краткими характеристиками: к каждому фрагменту, обозначенному буквой, подберите по две соответствующие характеристики, обозначенные цифрами.",
+    "mainText"          : "Характеристика:\n\n 1) События, описываемые в отрывке, произошли в X веке.\n\n 2) Упоминаемый в отрывке правитель погиб в результате восстания.\n\n 3) События, описываемые в отрывке, произошли в XI веке.\n\n 4) Упоминаемая в отрывке личность приходилась внуком Чингисхану.\n\n 5) События, описываемые в отрывке, произошли в XIII веке.\n\n 6) Упоминаемая в отрывке личность приняла христианство под влиянием матери.\n\n Запишите в таблицу выбранные цифры под соответствующими буквами без пробелов и запятых в порядке возрастания.\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "1245"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["IMGEGE.Historia.Variant10.Task6_Img1"]
+}

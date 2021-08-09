@@ -1,0 +1,41 @@
+{
+    "variantName": "Matura 2021 marzec",
+    "variantDescription": "Matura 2021 marzec",
+    "executionTimeInSeconds": 12600,
+    "maxPrimaryBall" : 32,
+    "countTask": 20,
+    "variantImages": [
+        {
+            "variantSmallImg": "",
+            "variantMiddleImg": "",
+            "variantBigImg": ""
+        },
+        {
+            "variantSmallImg": "",
+            "variantMiddleImg": "",
+            "variantBigImg": ""
+        }
+    ],
+    "tasks": [
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task1.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task2.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task3.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task4.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task5.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task6.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task7.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task8.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task9.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task10.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task11.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task12.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task13.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task14.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task15.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task16.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task17.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task18.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task19.json",
+        "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/task1/ege.Math_Variant1_task20.json"
+    ]
+}

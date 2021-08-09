@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 16",
+    "taskDefinition"    : "Рассмотрите карту и выполните задание.\n\nКакие суждения, относящиеся к событиям, обозначенным на схеме, являются верными? Выберите три суждения из шести предложенных. Цифры ука­жи­те в по­ряд­ке возрастания.",
+    "mainText"          : "1.Поводом к войне послужило несоблюдение Россией обязательств по «Континентальной блокаде».\n\n2.Союзником России в этой войне была Швеция.\n\n3.Одновременно с этой войной Россия вела войну с Османской Империей.\n\n4.На первом этапе войны противник избегал «генерального сражения».\n\n5.Противнику удалось захватить столицу, однако вскоре он был вынужден ее оставить.\n\n6.В начале войны российская армия по численности значительно уступала армии противника.\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 841",
+    "answers": [
+        "126"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant5/IMGEGE.Historia.Variant5.Task13_Img1.png"]
+}

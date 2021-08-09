@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 15",
+    "taskDefinition"    : "Рассмотрите схему и выполните задание.",
+    "mainText"          : "Назовите аббревиатуру, которой обозначался орган управления, существовавший в период данного сражения, обладавший всей полнотой политической, хозяйственной и военной власти.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: Аргунское",
+    "answers": [
+        "ГКО"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant8/IMGEGE.Historia.Variant8.Task13_Img1.png"]
+}

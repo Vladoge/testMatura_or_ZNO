@@ -1,0 +1,55 @@
+{
+    "variants": [
+        {
+            "variantName": "Matura 2021 marzec",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant1/ege.Math_Variant1.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Test z fizyki, 2020",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant2/ege.Math_Variant2.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Test z polskiego, 2021, marzec - podstawowy",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/Vladoge/datas_matura/main/api.ege.Math_app/JSONVariants/Variant3/ege.History_Variant3.json,
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        }
+    ]
+}

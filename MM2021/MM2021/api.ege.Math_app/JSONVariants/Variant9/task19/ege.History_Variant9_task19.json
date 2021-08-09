@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 19",
+    "taskDefinition"    : "Кто из деятелей культуры, представленных ниже, были современниками события, в память о котором была выпущена данная монета? В ответе запишите две цифры, которыми обозначены эти деятели культуры.",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "23"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant9/IMGEGE.Historia.Variant9.Task18_Img1.png",
+                          "https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant9/IMGEGE.Historia.Variant9.Task19_Img1.png"]
+}

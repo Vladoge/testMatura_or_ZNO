@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 11",
+    "taskDefinition"    : "Решите задачу\n\nОпределите по графику разрыв между лидирующей партией и партией, набравшей наименьшее количество голосов; ответ дайте в тысячах.",
+    "mainText"          : "В городе A. прошли выборы в городской совет, в них участвовало четыре партии: Народная Воля, Справедливость, Единство, Выбор. На рисунке представлены результаты голосования в тысячах человек. По горизонтали указаны партии, по вертикали — число проголосовавших в тысячах. ",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 521",
+    "answers": [
+        "300"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.Math.pictures/raw/master/Variant1/IMGEGE.Math.Variant1.Task11_Img1.png"]
+}

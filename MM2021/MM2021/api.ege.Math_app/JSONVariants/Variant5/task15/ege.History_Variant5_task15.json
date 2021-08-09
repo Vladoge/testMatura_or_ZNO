@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 15",
+    "taskDefinition"    : "Рассмотрите карту и выполните задание.",
+    "mainText"          : "Назовите город, указанный на карте, оборона которого позволила основным силам российской армии успешно отступить, не потеряв своей боеспособности.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: Аргунское",
+    "answers": [
+        "Смоленск"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant5/IMGEGE.Historia.Variant5.Task13_Img1.png"]
+}

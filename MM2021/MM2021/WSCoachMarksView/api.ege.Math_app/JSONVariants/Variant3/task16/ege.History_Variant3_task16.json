@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 16",
+    "taskDefinition"    : "Какие суждения, относящиеся к событиям, обозначенным на схеме, являются верными? Выберите три суждения из шести предложенных. Цифры ука­жи­те в по­ряд­ке возрастания.",
+    "mainText"          : "1.Флот противника России в данной войне обладал превосходством.\n\n2.Командующими русской армией в этой войне были Г. А. Потёмкин, П. А. Румянцев, Н. В. Репнин.\n\n3.По результатам войны за Россией был окончательно признан Крымский полуостров.\n\n4.Болгария являлась независимым государством в период войны, события которой обозначены на схеме.\n\n5.Одновременно с событиями, обозначенными на схеме, Россия вела боевые действия на севере.\n\n6.Война, события которой обозначены на схеме, являлась третьей войной с данным противником для России в XVIII в.\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 841",
+    "answers": [
+        "235"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant3/IMGEGE.Historia.Variant3.Task13_Img1.png"]
+}

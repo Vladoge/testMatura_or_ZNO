@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 7",
+    "taskDefinition"    : "Что из перечисленного относится к периоду Великой Отечественной войны?\n\n(Выберите 3 варианта из списка.)",
+    "mainText"          : "1.создание ГКО\n\n2.Ялтинская конференция\n\n3.оборона Царицына\n\n4.штурм Перекопа\n\n5.написание «Седьмой симфонии» Шостаковича\n\n6.постановление оргбюро ЦК ВКП(б) «О журналах 'Звезда' и 'Ленинград'»\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 13",
+    "answers": [
+        "125"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

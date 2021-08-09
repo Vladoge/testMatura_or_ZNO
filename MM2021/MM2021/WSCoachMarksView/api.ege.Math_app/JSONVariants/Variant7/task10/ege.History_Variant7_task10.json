@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 10",
+    "taskDefinition"    : "Прочтите отрывок из воспоминаний и напишите фамилию автора.",
+    "mainText"          : "«Так было всегда. На протяжении всех восьми лет моего пребывания на главном посту. На посту президента новой России. Сегодня все не так, сегодня от начала и до конца я несу груз принятого решения в одиночку. Почти в одиночку... Честно говоря, трудно. Трудно носить в себе такую тяжесть. Ужасно хочется с кем-нибудь поговорить. Но не могу. Если информация просочится — весь эффект будет потерян. Будет потерян моральный, человеческий, политический смысл этого жеста. Будет потеряна энергетика этого решения. Моего решения об отставке.»",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: Киркоров",
+    "answers": [
+        "Ельцин"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": []
+}

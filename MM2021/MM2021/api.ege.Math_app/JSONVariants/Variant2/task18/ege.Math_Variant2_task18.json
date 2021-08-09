@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Выберите утверждения, которые верны при указанных условиях.",
+    "mainText"          : "Карандаш стоит дешевле ручки, но дороже ластика. Ручка в два раза дороже точилки.Варианты ответа:\n\n1.Две ручки дороже трёх точилок.\n\n2.Ластик дешевле карандаша.\n\n3.Карандаш и две точилки дешевле, чем ручка и ластик.\n\n4.Три карандаша дороже двух ластиков.\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 4,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "124"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами",
+    "arrURLImageForTask": []
+}

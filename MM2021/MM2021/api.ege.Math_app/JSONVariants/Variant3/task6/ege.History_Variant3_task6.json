@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 6",
+    "taskDefinition"    : "Установите соответствие между фрагментами исторических источников и их краткими характеристиками: к каждому фрагменту, обозначенному буквой, подберите по две соответствующие характеристики, обозначенные цифрами.",
+    "mainText"          : "Характеристика:\n\n1) Договор заключён в период правления Александра II.\n\n2) Договор заключён в период правления Александра III.\n\n3) Одним из положений данного договора стало присоединение России к континентальной блокаде.\n\n4) Договор был направлен против стран Тройственного союза.\n\n5) Договор заключён в период правления Александра I.\n\n6) Договор вошёл в историю под названием «Союз трёх императоров». Запишите в таблицу выбранные цифры под соответствующими буквами без пробелов и запятых в порядке возрастания.\n\n",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "2635"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant3/IMGEGE.Historia.Variant3.Task6_Img1.png"]
+}

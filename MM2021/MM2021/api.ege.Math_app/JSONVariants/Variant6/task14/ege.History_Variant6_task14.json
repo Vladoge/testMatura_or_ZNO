@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 14",
+    "taskDefinition"    : "Напишите название народа, государство которого, обозначенное на схеме цифрой «2», было разгромлено в ходе изображённых на схеме походов.",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: Суворов",
+    "answers": [
+        "Хазары"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant6/IMGEGE.Historia.Variant6.Task13_Img1.png"]
+}

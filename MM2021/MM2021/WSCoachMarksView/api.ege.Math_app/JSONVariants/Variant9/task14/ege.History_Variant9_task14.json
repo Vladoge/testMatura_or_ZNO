@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 14",
+    "taskDefinition"    : "Укажите название города, обозначенного на схеме цифрой «4», в период, когда произошли события, отражённые на схеме.",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: Суворов",
+    "answers": [
+        "Ленинград"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": ["https://gitlab.com/thisismymail03/api.ege.History.pictures/raw/master/Variant9/IMGEGE.Historia.Variant9.Task13_Img1.png"]
+}
